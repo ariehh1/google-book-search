@@ -13,7 +13,7 @@ class Home extends Component {
             <Jumbotron>
               <img
                 className="img-fluid"
-                src={require("./book galary.jpeg")}
+                src={require("./bookgallery.jpeg")}
                 style={{ height: 300, margin: 0 }}
               />
             </Jumbotron>
