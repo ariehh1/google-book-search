@@ -1,4 +1,4 @@
-# google-book-search
+# [google-book-search](https://mighty-basin-71904.herokuapp.com/)
 
 In this repository, I have built a Books Search application that queries the Google API database. A user can search for their favorite book, view that book title in the Google Book store online, and compile a list of saved books that they enjoy. Once they have been read, a user can simply delete the book from their list.
 
@@ -26,6 +26,7 @@ Please watch the below link for a demo of the Google Book Search:
 If I were to develop this application further, I would focus on enhancing the customer experience. This would include alerting the user when they "saved" a book and adding in a "purchase" functionality directly in-app. I would also reconfigure the book display details so that book length, rating, and suggested book titles render upon user search.
 
 <h1>Heroku Link:</h1>
+https://mighty-basin-71904.herokuapp.com/
 
 <h1>Contact Me:</h1>
 @ariehh1 - (https://github.com/ariehh1)
