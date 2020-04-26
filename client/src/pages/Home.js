@@ -13,6 +13,7 @@ class Home extends Component {
             <Jumbotron>
               <img
                 className="img-fluid"
+                alt="[]"
                 src={require("./bookgallery.jpeg")}
                 style={{ height: 300, margin: 0 }}
               />
@@ -21,14 +22,14 @@ class Home extends Component {
           <Col size="md-6">
             <Jumbotron>
               <br />
-              <h1>Welcome to Google Books Search App</h1>
+              <h1>Welcome to the Google Books Search </h1>
               <br />
               <p className="container text-justify">
-                Here you will be able to search by a Book's title from the vast
-                selection of Google Books Database and selectively save them in
-                our database. You can also search our database for already saved
-                books to view the synopsis and selectively delete books that are
-                irrevant.
+                In this application, you will be able to search by a book's
+                title from the robust selection of a Google Books Database and
+                save them directly. You can also search the database for already
+                saved books to view the synopsis and selectively delete books
+                that you've already read.
               </p>
             </Jumbotron>
           </Col>

@@ -14,7 +14,7 @@ function App() {
         <Switch>
           <Route exact path="/" component={Home} />
           <Route exact path="/search" component={Search} />
-          <Route exact path="/save" component={Save} />
+          <Route exact path="/saved" component={Save} />
           <Route component={NoMatch} />
         </Switch>
       </div>
