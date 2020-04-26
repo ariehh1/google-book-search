@@ -87,7 +87,7 @@ class Search extends Component {
                       <Col size="md-9" className="text-justify">
                         <b>{result.title}</b>
                         <br />
-                        {result.authors}
+                        {result.author}
                         <br />
                         {result.synopsis}
                       </Col>
