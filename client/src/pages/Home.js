@@ -22,7 +22,7 @@ class Home extends Component {
           <Col size="md-6">
             <Jumbotron>
               <br />
-              <h1>Welcome to the Google Books Search </h1>
+              <h1>Welcome to the Google Book Search </h1>
               <br />
               <p className="container text-justify">
                 In this application, you will be able to search by a book's

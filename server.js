@@ -26,7 +26,7 @@ mongoose.connect(
   }
 );
 
-// Start the API server
+// Start the API server here
 app.listen(PORT, () =>
   console.log(`API Server up on http://localhost:${PORT}`)
 );
